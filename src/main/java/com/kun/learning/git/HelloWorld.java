@@ -5,6 +5,7 @@ package com.kun.learning.git;
  */
 public class HelloWorld {
     public static void main(String[]arsg){
+        // 冲突怎么解决呢?
         System.out.println("Hello git.");
     }
 }
