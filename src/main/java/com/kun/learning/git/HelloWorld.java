@@ -5,6 +5,7 @@ package com.kun.learning.git;
  */
 public class HelloWorld {
     public static void main(String[]arsg){
+        // This is a good idea.
         System.out.println("Hello git.");
     }
 }
